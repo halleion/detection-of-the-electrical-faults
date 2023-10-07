@@ -1,4 +1,4 @@
-# includes 0detection-of-the-electrical-faults.ipynb
+# rar file includes 0detection-of-the-electrical-faults.ipynb
 
 Objective: Detection of the Electrical Faults in Transmission Line
 
